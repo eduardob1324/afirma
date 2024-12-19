@@ -36,3 +36,6 @@
 ###  Menciona un caso de uso donde Visitor sería ideal.
 > cuando se tenga una aplicacion legacy que sea muy critica y por ejemplo se quiera utilizar algunas de sus clases para generar reportes, ya que se podria implementar la funcionalidad para generar los reportes sin afectar las clases existentes lo que permitiria poder integrar los reporte sin generar cambios significativos a las clases existentes.
 
+# UML
+### diagrama de clases 
+<img src="./images/UML.png" width="800" />
