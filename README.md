@@ -39,3 +39,6 @@
 # UML
 ### diagrama de clases 
 <img src="./images/UML.png" width="800" />
+
+##Nota:
+> lo reportes se generan en una carpeta en la raiz del proyecto llamada "reportes"
